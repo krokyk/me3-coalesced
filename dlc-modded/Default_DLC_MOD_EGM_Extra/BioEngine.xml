@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+  <Sections>
+    <Section name="alternatenonpackageresources">
+      <Property name="conditionalsfiles" type="2">ConditionalsDLC_Shared.cnd</Property>
+      <Property name="talktablemodules" type="2">DLC_Shared</Property>
+    </Section>
+    <Section name="configuration">
+      <Property name="basedon" type="0">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\Config\DefaultEngine.ini</Property>
+    </Section>
+    <Section name="core.system">
+      <Property name="cookpaths">
+        <Value type="1">null</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\Content</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\Script</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\ScriptFinalRelease</Value>
+      </Property>
+      <Property name="frscriptpaths">
+        <Value type="3">..\..\BIOGame\DLC\DLC_Shared\ScriptFinalRelease</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\ScriptFinalRelease</Value>
+      </Property>
+      <Property name="paths">
+        <Value type="3">..\..\BIOGame\DLC\DLC_Shared\__Trashcan</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_Shared\Content</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_Shared\TestContent</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\__Trashcan</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\Content</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\TestContent</Value>
+      </Property>
+      <Property name="scriptpaths">
+        <Value type="3">..\..\BIOGame\DLC\DLC_Shared\Script</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\Script</Value>
+      </Property>
+      <Property name="seekfreepcpaths">
+        <Value type="3">..\..\BIOGame\DLC\DLC_Shared\CookedPCConsole</Value>
+        <Value type="3">..\..\BIOGame\DLC\DLC_CON_MAPMOD_TM2\CookedPCConsole</Value>
+      </Property>
+    </Section>
+    <Section name="engine.dlcmodules">
+      <Property name="DLC_CON_MAPMOD_TM2" type="0">42</Property>
+    </Section>
+    <Section name="unrealed.editorengine">
+      <Property name="editpackages">
+        <Value type="3">SFXGameContentDLC_Shared</Value>
+        <Value type="3">SFXGameContentDLC_CON_MAPMOD_TM2</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

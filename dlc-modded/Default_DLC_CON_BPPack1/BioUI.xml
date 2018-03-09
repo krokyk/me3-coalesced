@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioUI" name="bioui.ini" source="..\..\biogame\config\bioui.ini">
+  <Sections>
+    <Section name="configuration">
+      <Property name="basedon" type="0">..\..\BIOGame\DLC\DLC_Shared\Config\DefaultUI.ini</Property>
+    </Section>
+    <Section name="sfxgame.biosfhandler_newcharacter">
+      <Property name="bonustalents">
+        <Value type="3">(BonusPowerID=1048576,PowerClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_EMPGrenade",srChoiceName=731580,srChoiceTitle=731580,srChoiceDescription=731581,oChoiceImage=none)</Value>
+        <Value type="3">(BonusPowerID=2097152,PowerClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_BatarianAttack",srChoiceName=727737,srChoiceTitle=727737,srChoiceDescription=727739,oChoiceImage=none)</Value>
+        <Value type="3">(BonusPowerID=8388608,PowerClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_BubbleShield",srChoiceName=727802,srChoiceTitle=727802,srChoiceDescription=727807,oChoiceImage=none)</Value>
+        <Value type="3">(BonusPowerID=33554432,PowerClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_WhipSmash",srChoiceName=732823,srChoiceTitle=732823,srChoiceDescription=732827,oChoiceImage=none)</Value>
+        <Value type="3">(BonusPowerID=67108864,PowerClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_BatarianNet",srChoiceName=727757,srChoiceTitle=727757,srChoiceDescription=727758,oChoiceImage=none)</Value>
+      </Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxgamechoiceguidata_storedata_bonuspowers">
+      <Property name="storeitemarray">
+        <Value type="3">(ItemType=TYPE_POWER,PlotUnlockConditionalID=5381,BaseCost=3000,ItemClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_EMPGrenade",ChoiceEntry=(srChoiceName=731580,srChoiceDescription=731581),Priority=22,BaseCost=5000,LargeImage="gui_codex_images.Store.STO_BonusPower_512x256",SmallImage="GUI_Icons.Notifications.NT_Store_256x1286")</Value>
+        <Value type="3">(ItemType=TYPE_POWER,PlotUnlockConditionalID=5381,BaseCost=3000,ItemClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_BatarianAttack",ChoiceEntry=(srChoiceName=727737,srChoiceDescription=727739),Priority=23,BaseCost=5000,LargeImage="gui_codex_images.Store.STO_BonusPower_512x256",SmallImage="GUI_Icons.Notifications.NT_Store_256x1286")</Value>
+        <Value type="3">(ItemType=TYPE_POWER,PlotUnlockConditionalID=5381,BaseCost=3000,ItemClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_BubbleShield",ChoiceEntry=(srChoiceName=727802,srChoiceDescription=727807),Priority=24,BaseCost=5000,LargeImage="gui_codex_images.Store.STO_BonusPower_512x256",SmallImage="GUI_Icons.Notifications.NT_Store_256x1286")</Value>
+        <Value type="3">(ItemType=TYPE_POWER,PlotUnlockConditionalID=5381,BaseCost=3000,ItemClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_WhipSmash",ChoiceEntry=(srChoiceName=732823,srChoiceDescription=732827),Priority=25,BaseCost=5000,LargeImage="gui_codex_images.Store.STO_BonusPower_512x256",SmallImage="GUI_Icons.Notifications.NT_Store_256x1286")</Value>
+        <Value type="3">(ItemType=TYPE_POWER,PlotUnlockConditionalID=5381,BaseCost=3000,ItemClassName="sfxgamecontentdlc_con_bppack1.SFXPowerCustomAction_BatarianNet",ChoiceEntry=(srChoiceName=727757,srChoiceDescription=727758),Priority=26,BaseCost=5000,LargeImage="gui_codex_images.Store.STO_BonusPower_512x256",SmallImage="GUI_Icons.Notifications.NT_Store_256x1286")</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

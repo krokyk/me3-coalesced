@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+  <Sections>
+    <Section name="engine.alternatenonpackageresources">
+      <Property name="conditionalfiles" type="3">ConditionalsDLC_Shared.cnd</Property>
+      <Property name="talktablemodules" type="3">DLC_Shared</Property>
+    </Section>
+    <Section name="engine.dlcmodules">
+      <Property name="dlc_con_bppack1" type="3">44</Property>
+      <Property name="dlc_shared" type="3">3</Property>
+    </Section>
+    <Section name="engine.startuppackages">
+      <Property name="dlcstartuppackage" type="3">Startup_CON_BPPack1</Property>
+      <Property name="dlcstartuppackagename" type="3">Startup_CON_BPPack1</Property>
+      <Property name="package" type="3">PlotManagerAutoDLC_CON_BPPack1</Property>
+    </Section>
+    <Section name="sfxgame.sfxengine">
+      <Property name="dynamicloadmapping">
+        <Value type="3">(ObjectName="SFXGameContentDLC_CON_BPPack1.SFXPowerCustomAction_EMPGrenade",SeekFreePackageName="SFXPower_ArcGrenade")</Value>
+        <Value type="3">(ObjectName="SFXGameContentDLC_CON_BPPack1.SFXPowerCustomAction_BatarianAttack",SeekFreePackageName="SFXPower_BallisticBlades")</Value>
+        <Value type="3">(ObjectName="SFXGameContentDLC_CON_BPPack1.SFXPowerCustomAction_BubbleShield",SeekFreePackageName="SFXPower_BioticSphere")</Value>
+        <Value type="3">(ObjectName="SFXGameContentDLC_CON_BPPack1.SFXPowerCustomAction_WhipSmash",SeekFreePackageName="SFXPower_Smash")</Value>
+        <Value type="3">(ObjectName="SFXGameContentDLC_CON_BPPack1.SFXPowerCustomAction_BatarianNet",SeekFreePackageName="SFXPower_SubmissionNet")</Value>
+      </Property>
+      <Property name="sfxuniqueids">
+        <Value type="3">sfxgamecontentdlc_con_bppack1.sfxpowercustomaction_epmgrenade</Value>
+        <Value type="3">sfxgamecontentdlc_con_bppack1.sfxpowercustomaction_batarianattack</Value>
+        <Value type="3">sfxgamecontentdlc_con_bppack1.sfxpowercustomaction_bubbleshield</Value>
+        <Value type="3">sfxgamecontentdlc_con_bppack1.sfxpowercustomaction_whipsmash</Value>
+        <Value type="3">sfxgamecontentdlc_con_bppack1.sfxpowercustomaction_batariannet</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

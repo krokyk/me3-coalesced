@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioUI" name="bioui.ini" source="..\..\biogame\config\bioui.ini">
+  <Sections>
+    <Section name="sfxgamecontent.sfxguidata_mail_normandy">
+      <Property name="maillist">
+        <Value type="3">(MailTitle=973333, MailBody=973334, MailStatePlot=27400, SendConditional=4177, SmallImage="")</Value>
+        <Value type="3">(MailTitle=973335, MailBody=973336, MailStatePlot=27401, SendConditional=7932, SmallImage="")</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

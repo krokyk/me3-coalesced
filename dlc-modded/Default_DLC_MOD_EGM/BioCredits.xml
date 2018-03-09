@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioCredits" name="biocredits.ini" source="..\..\biogame\config\biocredits.ini">
+  <Sections>
+    <Section name="sfxgame.sfxgui_credits">
+      <Property name="endcredits">
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=725172, FontScale=0.8, BreakSpace=75)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=945100, Names=, FontScale=1.5, BreakSpace=100)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946992, Names=946993, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946982, Names=946983, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946984, Names=946985, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946994, Names=946995, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946987, Names=946996, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=342891, Names=946988, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=946989, FontScale=0.8, BreakSpace=5)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=391693, Names=946997, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946986, Names=, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=947182, BreakSpace=10)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=947183, FontScale=0.8, BreakSpace=0)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=947184, BreakSpace=15)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=947185, FontScale=0.8, BreakSpace=0)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=947186, BreakSpace=15)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=947187, FontScale=0.8, BreakSpace=0)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=391342, Names=946999, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=947180, Names=947181, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=362113, Names=946998, BreakSpace=50)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=725172, FontScale=0.8, BreakSpace=100)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=946990, Names=, FontScale=1.5, BreakSpace=25)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=946991, BreakSpace=50)</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

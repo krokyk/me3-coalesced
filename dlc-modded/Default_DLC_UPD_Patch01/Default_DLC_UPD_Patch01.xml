@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceFile id="Default_DLC_UPD_Patch01" name="Default_DLC_UPD_Patch01.bin">
+  <Assets>
+    <Asset source="BioEngine.xml" />
+    <Asset source="BioGame.xml" />
+  </Assets>
+</CoalesceFile>

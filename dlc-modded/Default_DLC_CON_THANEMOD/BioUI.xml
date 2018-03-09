@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioUI" name="bioui.ini" source="..\..\biogame\config\bioui.ini">
+  <Sections>
+    <Section name="sfxgame.sfxareamapdata">
+      <Property name="charactermapdata">
+        <Value type="4">(Floor=AM_CitHosp,srCharacter=349396,srLocation=723573, nConditional=2514)</Value>
+        <Value type="4">(Floor=AM_CitHosp,srCharacter=349396,srLocation=723575, nConditional=2519)</Value>
+        <Value type="3">(Floor=AM_CitHosp,srCharacter=349396,srLocation=723573, nConditional=4250)</Value>
+        <Value type="3">(Floor=AM_CitHosp,srCharacter=349396,srLocation=723575, nConditional=4249)</Value>
+      </Property>
+    </Section>
+    <Section name="sfxgame.sfxgawassetshandler">
+      <Property name="allassets">
+        <Value type="4">(ID=185,AssetName="GAWAsset_HanarAndDrellForces",Type=GAWAssetType_Military,SubType=GAWAssetSubType_Fleet,StartingStrength=50,GUIName=715508,GUIDescription=715644,bIsExploration=False,UnlockPlotStates[0]=0,GUICategoryID=0,DebugConditionalDescription="Save the Hanar Homeworld",bShowNotificationOnAward=true,ImagePath="gui_codex_images.galaxyAtWar.GM_AlienFleet_512x256",NotificationImagePath="GUI_Icons.Notifications.GM_CitSpace_256x128")</Value>
+        <Value type="3">(ID=185,AssetName="GAWAsset_HanarAndDrellForces",Type=GAWAssetType_Military,SubType=GAWAssetSubType_Fleet,StartingStrength=75,GUIName=715508,GUIDescription=715644,bIsExploration=False,UnlockPlotStates[0]=0,GUICategoryID=0,DebugConditionalDescription="Save the Hanar Homeworld",bShowNotificationOnAward=true,ImagePath="GUI_GameManual.Kinect_OptionNarrative_512x256",NotificationImagePath="GUI_Icons.Notifications.GM_CitSpace_256x128")</Value>
+        <Value type="3">(ID=300,AssetName="GAWAsset_KepralsTreatment",Type=GAWAssetType_Modifier,StartingStrength=0,GUIName=0,GUIDescription=140000078,bIsExploration=False,ModTargets[0]=(TargetID=185,Value=75),UnlockPlotStates[0]=0,GUICategoryID=0,DebugConditionalDescription="Read final Thane email",bShowNotificationOnAward=true,ImagePath="",NotificationImagePath="GUI_Icons.Notifications.GM_AFleet_256x128")</Value>
+        <Value type="3">(ID=301,AssetName="GAWAsset_ThaneKrios",Type=GAWAssetType_Military,SubType=GAWAssetSubType_Fleet,StartingStrength=25,GUIName=140000079,GUIDescription=140000080,bIsExploration=false,UnlockPlotStates[0]=0,GUICategoryID=0,DebugConditionalDescription="Read first Thane email",bShowNotificationOnAward=true,ImagePath="GUI_GameManual.Kinect_PowerWheel_512x256",NotificationImagePath="GUI_Icons.Notifications.GM_AFleet_256x128")</Value>
+      </Property>
+    </Section>
+    <Section name="sfxgame.sfxgui_journalcodex">
+      <Property name="lstimages" type="3">(nID=90, sName="GUI_GameManual.Kinect_SquadOrders_512x256")</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxguidata_mail_normandy">
+      <Property name="maillist">
+        <Value type="4">(MailTitle=722908, MailBody=722909, MailStatePlot=10718, SendConditional=2368, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000000, MailBody=140000001, MailStatePlot=26000, SendConditional=4200, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000002, MailBody=140000003, MailStatePlot=26001, SendConditional=4201, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000004, MailBody=140000005, MailStatePlot=26002, SendConditional=4202, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000006, MailBody=140000007, MailStatePlot=26003, SendConditional=4203, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000008, MailBody=140000009, MailStatePlot=26004, SendConditional=4204, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000010, MailBody=140000011, MailStatePlot=26005, SendConditional=4205, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000012, MailBody=140000013, MailStatePlot=26006, SendConditional=4206, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000014, MailBody=140000015, MailStatePlot=26007, SendConditional=4207, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000016, MailBody=140000017, MailStatePlot=26008, SendConditional=4208, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000018, MailBody=140000019, MailStatePlot=26009, SendConditional=4209, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000020, MailBody=140000021, MailStatePlot=26010, SendConditional=4210, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000022, MailBody=140000023, MailStatePlot=26011, SendConditional=4211, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000024, MailBody=140000025, MailStatePlot=26012, SendConditional=4212, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000026, MailBody=140000027, MailStatePlot=26013, SendConditional=4213, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000028, MailBody=140000029, MailStatePlot=26014, SendConditional=4214, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000030, MailBody=140000031, MailStatePlot=26015, SendConditional=4215, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000032, MailBody=140000033, MailStatePlot=26016, SendConditional=4216, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000038, MailBody=140000039, MailStatePlot=26019, SendConditional=4219, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000040, MailBody=140000041, MailStatePlot=26020, SendConditional=4220, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000042, MailBody=140000043, MailStatePlot=26021, SendConditional=4221, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000044, MailBody=140000045, MailStatePlot=26022, SendConditional=4222, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000046, MailBody=140000047, MailStatePlot=26023, SendConditional=4223, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000048, MailBody=140000049, MailStatePlot=26024, SendConditional=4224, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000050, MailBody=140000051, MailStatePlot=26025, SendConditional=4225, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000052, MailBody=140000053, MailStatePlot=26026, SendConditional=4226, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000054, MailBody=140000055, MailStatePlot=26027, SendConditional=4227, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000056, MailBody=140000057, MailStatePlot=26028, SendConditional=4228, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000058, MailBody=140000059, MailStatePlot=26029, SendConditional=4229, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000060, MailBody=140000061, MailStatePlot=26030, SendConditional=4230, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000062, MailBody=140000063, MailStatePlot=26031, SendConditional=4231, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000064, MailBody=140000065, MailStatePlot=26032, SendConditional=4232, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000066, MailBody=140000067, MailStatePlot=26033, SendConditional=4233, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000068, MailBody=140000069, MailStatePlot=26034, SendConditional=4234, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000070, MailBody=140000071, MailStatePlot=26035, SendConditional=4235, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000072, MailBody=140000073, MailStatePlot=26036, SendConditional=4236, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000074, MailBody=140000075, MailStatePlot=26037, SendConditional=4237, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000076, MailBody=140000077, MailStatePlot=26038, SendConditional=4238, SmallImage="")</Value>
+        <Value type="3">(MailTitle=722908, MailBody=722909, MailStatePlot=26039, SendConditional=2368, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000083, MailBody=140000084, MailStatePlot=26040, SendConditional=4247, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000081, MailBody=140000082, MailStatePlot=26041, SendConditional=4248, SmallImage="")</Value>
+      </Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxguidata_mail_shadowbroker">
+      <Property name="maillist">
+        <Value type="3">(MailTitle=140000034, MailBody=140000035, MailStatePlot=26042, SendConditional=4218, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000036, MailBody=140000037, MailStatePlot=26043, SendConditional=4242, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000117, MailBody=140000118, MailStatePlot=26044, SendConditional=4244, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000119, MailBody=140000120, MailStatePlot=26045, SendConditional=4245, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000121, MailBody=140000122, MailStatePlot=26046, SendConditional=4251, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000123, MailBody=140000124, MailStatePlot=26047, SendConditional=4252, SmallImage="")</Value>
+        <Value type="3">(MailTitle=140000125, MailBody=140000126, MailStatePlot=26048, SendConditional=4253, SmallImage="")</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

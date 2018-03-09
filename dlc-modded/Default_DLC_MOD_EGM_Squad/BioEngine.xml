@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+  <Sections>
+    <Section name="configuration">
+      <Property name="basedon" type="2">..\..\BIOGame\DLC\DLC_MOD_EGM_Squad\Config\DefaultEngine.ini</Property>
+    </Section>
+    <Section name="sfxgame.sfxengine">
+      <Property name="dynamicloadmapping">
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Jack_AAP",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Jack_AAP_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Jacob_AAP",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Jacob_AAP_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Samara_AAP",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Samara_AAP_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Grunt_AAP",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Grunt_AAP_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Kasumi_AAP",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Kasumi_AAP_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Zaeed_AAP",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Zaeed_AAP_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Grunt_VSR",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Grunt_VSR_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Tali_3_Glow",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+        <Value type="3">(ObjectName="GUI_Images_Mapmod.Squad.Tali_3_NG",SeekFreePackageName="SFXGUI_Images_Squad")</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+  <Sections>
+    <Section name="engine.dlcmodules">
+      <Property name="dlc_exp_cemf" type="3">41</Property>
+      <Property name="dlc_shared" type="3">3</Property>
+    </Section>
+    <Section name="engine.startuppackages">
+      <Property name="dlcstartuppackage" type="3">Startup_EXP_CEMF</Property>
+      <Property name="dlcstartuppackagename" type="3">Startup_EXP_CEMF</Property>
+      <Property name="package" type="3">PlotManagerAutoDLC_EXP_CEMF</Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

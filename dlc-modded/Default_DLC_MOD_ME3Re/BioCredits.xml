@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioCredits" name="biocredits.ini" source="..\..\biogame\config\biocredits.ini">
+  <Sections>
+    <Section name="sfxgame.sfxgui_credits">
+      <Property name="endcredits">
+        <Value type="3">(Type=CREDIT_Scrolling, Title=, Names=725172, FontScale=0.8, BreakSpace=75)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=901000, Names=, FontScale=1.5, BreakSpace=100)</Value>
+        <Value type="3">(Type=CREDIT_Scrolling, Title=901001, Names=901002, BreakSpace=50)</Value>
+      </Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

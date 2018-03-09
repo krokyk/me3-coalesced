@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioEngine" name="bioengine.ini" source="..\..\biogame\config\bioengine.ini">
+  <Sections>
+    <Section name="engine.dlcmodules">
+      <Property name="dlc_con_jtoc" type="2">44</Property>
+      <Property name="dlc_shared" type="2">3</Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

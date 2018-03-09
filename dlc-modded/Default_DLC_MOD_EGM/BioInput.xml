@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioInput" name="bioinput.ini" source="..\..\biogame\config\bioinput.ini">
+  <Sections>
+    <Section name="sfxgame.sfxgamemodedefault">
+      <Property name="bindings">
+        <Value type="3">( Name="p", Command="ce TogglePortArms" )</Value>
+        <Value type="3">( Name="h", Command="ce ToggleHelmet" )</Value>
+        <Value type="3">( Name="XboxTypeS_LeftThumbStick", Command="ce TogglePortArms" )</Value>
+      </Property>
+    </Section>
+    <Section name="sfxgame.sfxgamemodegalaxy">
+      <Property name="bindings" type="3">( Name="SpaceBar", Command="Shared_GalaxySystemScan" )</Property>
+    </Section>
+    <Section name="sfxgame.sfxgamemodeorbital">
+      <Property name="planetrotationdegreespersecond" type="0">50.0</Property>
+      <Property name="reticledegreespersecond" type="0">90.0</Property>
+      <Property name="scanningplanetrotationdegreespersecond" type="0">25.0</Property>
+      <Property name="scanningreticledegreespersecond" type="0">35.0</Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>
