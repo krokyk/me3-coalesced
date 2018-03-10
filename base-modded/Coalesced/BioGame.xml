@@ -1396,8 +1396,8 @@
       <Property name="regularcamerahookoffset" type="2">(X=0,Y=0,Z=200)</Property>
     </Section>
     <Section name="sfxgame.sfxcharacterclass">
-      <Property name="encumbrancemaxcooldown" type="2">-1.5f</Property>
-      <Property name="encumbrancemincooldown" type="2">-3.0f</Property>
+      <Property name="encumbrancemaxcooldown" type="2">-2.0f</Property>
+      <Property name="encumbrancemincooldown" type="2">-2.0f</Property>
       <Property name="startingencumbrancecapacity" type="2">-0.98f</Property>
     </Section>
     <Section name="sfxgame.sfxduringasyncworkticker">
