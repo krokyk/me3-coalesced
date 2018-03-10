@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CoalesceFile id="Default_DLC_CON_JtoC" name="Default_DLC_CON_JtoC.bin">
-  <Assets>
-    <Asset source="BioEngine.xml" />
-    <Asset source="BioGame.xml" />
-    <Asset source="BioUI.xml" />
-  </Assets>
-</CoalesceFile>

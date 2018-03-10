@@ -31,7 +31,7 @@
       <Property name="idealminrange" type="0">300.f</Property>
       <Property name="idealtargetdistance" type="0">800.f</Property>
       <Property name="lowammosoundthreshold" type="0">0</Property>
-      <Property name="magsize" type="0">(X=100,Y=100)</Property>
+      <Property name="magsize" type="0">(X=300,Y=300)</Property>
       <Property name="maxaimerror" type="0">(X=0,Y=0)</Property>
       <Property name="maxcrosshairrange" type="0">(X=20,Y=20)</Property>
       <Property name="maxspareammo" type="0">(X=1000000,Y=1000000)</Property>

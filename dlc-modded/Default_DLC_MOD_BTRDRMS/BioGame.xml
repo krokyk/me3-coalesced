@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CoalesceAsset id="BioGame" name="biogame.ini" source="..\..\biogame\config\biogame.ini">
-  <Sections>
-    <Section name="sfxgame.bioglobalvariabletable">
-      <Property name="timedplotunlocks" type="3">(PlotBool=26217,UnlockDay=0)</Property>
-    </Section>
-  </Sections>
-</CoalesceAsset>

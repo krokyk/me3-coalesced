@@ -4021,7 +4021,7 @@
       <Property name="evolve_sniperdamage" type="2">0.15f</Property>
       <Property name="evolve_weapondamage" type="2">0.05f</Property>
       <Property name="evolve_weightcapacitybonus" type="2">0.35f</Property>
-      <Property name="sniperzoomdilation" type="2">(BaseValue=0.25f,Formula=BonusIsHardValue,RankBonuses[2]=0.10f)</Property>
+      <Property name="sniperzoomdilation" type="2">(BaseValue=0.35f,Formula=BonusIsHardValue,RankBonuses[2]=0.15f)</Property>
       <Property name="weapondamagebonus" type="2">(BaseValue=0.025f,Formula=BonusIsHardValue,RankBonuses[2]=0.025f)</Property>
       <Property name="weightcapacity" type="2">(BaseValue=0.15f,Formula=BonusIsHardValue,RankBonuses[1]=0.20f)</Property>
     </Section>

@@ -13,9 +13,9 @@
     </Section>
     <Section name="sfxgame.sfxgamemodeorbital">
       <Property name="planetrotationdegreespersecond" type="0">50.0</Property>
-      <Property name="reticledegreespersecond" type="0">90.0</Property>
-      <Property name="scanningplanetrotationdegreespersecond" type="0">25.0</Property>
-      <Property name="scanningreticledegreespersecond" type="0">35.0</Property>
+      <Property name="reticledegreespersecond" type="0">180.0</Property>
+      <Property name="scanningplanetrotationdegreespersecond" type="0">35.0</Property>
+      <Property name="scanningreticledegreespersecond" type="0">70.0</Property>
     </Section>
   </Sections>
 </CoalesceAsset>

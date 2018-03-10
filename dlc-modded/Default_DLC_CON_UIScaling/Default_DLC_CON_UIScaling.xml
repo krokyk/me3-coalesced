@@ -1,6 +1,0 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
-<CoalesceFile id="Default_DLC_CON_UIScaling" name="Default_DLC_CON_UIScaling.bin">
-  <Assets>
-    <Asset source="BioEngine.xml" />
-  </Assets>
-</CoalesceFile>

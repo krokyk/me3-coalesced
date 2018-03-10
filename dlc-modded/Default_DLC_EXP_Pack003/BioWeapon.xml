@@ -64,7 +64,7 @@
       <Property name="iconref" type="0">5</Property>
       <Property name="lazyrateoffire" type="0">0.01</Property>
       <Property name="lowammosoundthreshold" type="0">5</Property>
-      <Property name="magsize" type="0">(X=38,Y=57)</Property>
+      <Property name="magsize" type="0">(X=114,Y=171)</Property>
       <Property name="maxaimerror" type="0">(X=6.2,Y=6.2)</Property>
       <Property name="maxspareammo" type="0">(X=1000000,Y=1000000)</Property>
       <Property name="maxzoomaimerror" type="0">(X=1.0f,Y=1.0f)</Property>
@@ -118,9 +118,9 @@
       <Property name="iconref" type="0">41</Property>
       <Property name="impactrelevancedistance" type="0">100000</Property>
       <Property name="lowammosoundthreshold" type="0">20</Property>
-      <Property name="magsize" type="0">(X=1000,Y=1000)</Property>
+      <Property name="magsize" type="0">(X=3000,Y=3000)</Property>
       <Property name="maxaimerror" type="0">(X=2.5,Y=2.5)</Property>
-      <Property name="maxspareammo" type="0">(X=480,Y=480)</Property>
+      <Property name="maxspareammo" type="0">(X=1440,Y=1440)</Property>
       <Property name="maxzoomaimerror" type="0">(X=0.75,Y=0.75)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=40,Y=40)</Property>
       <Property name="minaimerror" type="0">(X=0.7,Y=0.7)</Property>
@@ -161,9 +161,9 @@
       <Property name="iconref" type="0">29</Property>
       <Property name="lazyrateoffire" type="0">0.01</Property>
       <Property name="lowammosoundthreshold" type="0">2</Property>
-      <Property name="magsize" type="0">(X=6,Y=6)</Property>
+      <Property name="magsize" type="0">(X=18,Y=18)</Property>
       <Property name="maxaimerror" type="0">(X=3.0,Y=3.0)</Property>
-      <Property name="maxspareammo" type="0">(X=30,Y=40)</Property>
+      <Property name="maxspareammo" type="0">(X=90,Y=120)</Property>
       <Property name="maxzoomaimerror" type="0">(X=1.25f,Y=1.25f)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=45,Y=45)</Property>
       <Property name="minaimerror" type="0">(X=1.0,Y=1.0)</Property>

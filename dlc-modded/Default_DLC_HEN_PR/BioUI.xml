@@ -9,7 +9,7 @@
     </Section>
     <Section name="sfxgame.sfxgawassetshandler">
       <Property name="allassets">
-        <Value type="3">(ID=500,AssetName="GAWAsset_EdenPrimeSupport",Type=GAWAssetType_Military,SubType=GAWAssetSubType_Ground,StartingStrength=25,GUIName=727491,GUIDescription=727487,GUICategoryID=1,ImagePath="gui_codex_images.galaxyAtWar.GM_HumansNoArmor_512x256")</Value>
+        <Value type="3">(ID=500,AssetName="GAWAsset_EdenPrimeSupport",Type=GAWAssetType_Military,SubType=GAWAssetSubType_Ground,StartingStrength=50,GUIName=727491,GUIDescription=727487,GUICategoryID=1,ImagePath="gui_codex_images.galaxyAtWar.GM_HumansNoArmor_512x256")</Value>
         <Value type="3">(ID=501,AssetName="GAWAsset_EdenPrimeSupport_Mod1",Type=GAWAssetType_Modifier,GUIDescription=727488,ModTargets[0]=(TargetID=500,Value=25),bShowNotificationOnAward=true)</Value>
         <Value type="3">(ID=502,AssetName="GAWAsset_EdenPrimeSupport_Mod2",Type=GAWAssetType_Modifier,GUIDescription=727489,ModTargets[0]=(TargetID=500,Value=25),bShowNotificationOnAward=true)</Value>
         <Value type="3">(ID=503,AssetName="GAWAsset_EdenPrimeSupport_Mod3",Type=GAWAssetType_Modifier,GUIDescription=727490,ModTargets[0]=(TargetID=500,Value=25),bShowNotificationOnAward=true)</Value>

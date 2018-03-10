@@ -69,9 +69,9 @@
       <Property name="iconref" type="0">2</Property>
       <Property name="lazyrateoffire" type="0">0.01</Property>
       <Property name="lowammosoundthreshold" type="0">5</Property>
-      <Property name="magsize" type="0">(X=20,Y=20)</Property>
+      <Property name="magsize" type="0">(X=60,Y=60)</Property>
       <Property name="maxaimerror" type="0">(X=4.5,Y=4.5)</Property>
-      <Property name="maxspareammo" type="0">(X=80,Y=100)</Property>
+      <Property name="maxspareammo" type="0">(X=240,Y=300)</Property>
       <Property name="maxzoomaimerror" type="0">(X=0.45,Y=0.45)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=44,Y=44)</Property>
       <Property name="minaimerror" type="0">(X=2.5,Y=2.5)</Property>
@@ -115,9 +115,9 @@
       <Property name="iconref" type="0">2</Property>
       <Property name="lazyrateoffire" type="0">0.01</Property>
       <Property name="lowammosoundthreshold" type="0">2</Property>
-      <Property name="magsize" type="0">(X=24,Y=24)</Property>
+      <Property name="magsize" type="0">(X=72,Y=72)</Property>
       <Property name="maxaimerror" type="0">(X=1.0,Y=1.0)</Property>
-      <Property name="maxspareammo" type="0">(X=72,Y=96)</Property>
+      <Property name="maxspareammo" type="0">(X=216,Y=198)</Property>
       <Property name="maxzoomaimerror" type="0">(X=1.0,Y=1.0)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=55,Y=55)</Property>
       <Property name="minaimerror" type="0">(X=0.5,Y=0.5)</Property>
@@ -169,12 +169,12 @@
       <Property name="idealtargetdistance" type="0">300.f</Property>
       <Property name="lowammosoundthreshold" type="0">0</Property>
       <Property name="magneticcorrectionthresholdangle" type="0">35.0f</Property>
-      <Property name="magsize" type="0">(X=22,Y=22)</Property>
+      <Property name="magsize" type="0">(X=66,Y=66)</Property>
       <Property name="maxaimerror" type="0">(X=0,Y=0)</Property>
       <Property name="maxchargetime" type="0">0.25f</Property>
       <Property name="maxcrosshairrange" type="0">(X=20,Y=20)</Property>
       <Property name="maxmagneticcorrectionangle" type="0">17.5f</Property>
-      <Property name="maxspareammo" type="0">(X=66,Y=88)</Property>
+      <Property name="maxspareammo" type="0">(X=198,Y=264)</Property>
       <Property name="maxzoomaimerror" type="0">(X=0.0f,Y=0.0f)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=20,Y=20)</Property>
       <Property name="minaimerror" type="0">(X=0.0,Y=0.0)</Property>
@@ -223,9 +223,9 @@
       <Property name="iconref" type="0">2</Property>
       <Property name="lazyrateoffire" type="0">0.01</Property>
       <Property name="lowammosoundthreshold" type="0">10</Property>
-      <Property name="magsize" type="0">(X=40,Y=40)</Property>
+      <Property name="magsize" type="0">(X=120,Y=120)</Property>
       <Property name="maxaimerror" type="0">(X=7.0,Y=7.0)</Property>
-      <Property name="maxspareammo" type="0">(X=320,Y=400)</Property>
+      <Property name="maxspareammo" type="0">(X=960,Y=1200)</Property>
       <Property name="maxzoomaimerror" type="0">(X=3.5,Y=3.5)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=90,Y=90)</Property>
       <Property name="minaimerror" type="0">(X=2.9,Y=2.9)</Property>
@@ -270,9 +270,9 @@
       <Property name="guiimage" type="0">GUI_MPImages_GUN01.smg_geth_512x256</Property>
       <Property name="iconref" type="0">2</Property>
       <Property name="lowammosoundthreshold" type="0">10</Property>
-      <Property name="magsize" type="0">(X=100,Y=100)</Property>
+      <Property name="magsize" type="0">(X=300,Y=300)</Property>
       <Property name="maxaimerror" type="0">(X=3.0,Y=3.0)</Property>
-      <Property name="maxspareammo" type="0">(X=500,Y=625)</Property>
+      <Property name="maxspareammo" type="0">(X=1500,Y=1875)</Property>
       <Property name="maxzoomaimerror" type="0">(X=0.65,Y=0.65)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=50,Y=50)</Property>
       <Property name="minaimerror" type="0">(X=1.25,Y=1.25)</Property>
@@ -323,11 +323,11 @@
       <Property name="lazyrateoffire" type="0">0.01</Property>
       <Property name="lowammosoundthreshold" type="0">0</Property>
       <Property name="magneticcorrectionthresholdangle" type="0">0.5</Property>
-      <Property name="magsize" type="0">(X=3,Y=3)</Property>
+      <Property name="magsize" type="0">(X=9,Y=9)</Property>
       <Property name="maxaimerror" type="0">(X=5.1,Y=5.1)</Property>
       <Property name="maxchargetime" type="0">0.1f</Property>
       <Property name="maxmagneticcorrectionangle" type="0">0.25</Property>
-      <Property name="maxspareammo" type="0">(X=9,Y=21)</Property>
+      <Property name="maxspareammo" type="0">(X=27,Y=63)</Property>
       <Property name="maxzoomaimerror" type="0">(X=0.f,Y=0.f)</Property>
       <Property name="maxzoomcrosshairrange" type="0">(X=30,Y=30)</Property>
       <Property name="maxzoomsnapdistance" type="0">10000</Property>
