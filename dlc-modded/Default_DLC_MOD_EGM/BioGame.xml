@@ -135,7 +135,7 @@
         <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_Prothean_Agle1",Value=-0.3,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_Prothean_Agle2",Value=-0.2f,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_MeleeDamageBonus",UniqueName="Intel_Prothean_Rage0",Value=3.5f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_Prothean_Rage1",Value=0.15,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_Prothean_Rage1",Value=0.3,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGame.SFXGameEffect_MovementSpeedBonus",UniqueName="Intel_Prothean_Rage2",Value=0.15f,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_Prothean_Rage3",Value=-0.25f,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_Prothean_Rage4",Value=-0.35f,Type=PermanentGEType_Player)</Value>
@@ -146,42 +146,42 @@
         <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_Prothean_Fort0",Value=2.25,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_Prothean_Fort1",Value=0.95f,Type=PermanentGEType_Player)</Value>
         <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_Prothean_FrtV0",Value=2.25,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_Prothean_FrtV1",Value=-0.3f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_Range_WeaponDamage",Value=0.03,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ConstraintDmgBonus",UniqueName="Intel_Range_Headshot",Value=0.08f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_MaxGrenadeBonus",UniqueName="Intel_KhansNetworkExposed_GrenadeBonus",Value=1.f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_KhansNetworkExposed_AmmoCapacity",Value=0.1f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_KhansNetworkExposed_ShieldRegen",Value=-0.1f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_KhansNetworkExposed_PowerCooldown",Value=0.1f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_LegionIntel2_ShieldRegen",Value=-0.05f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_AdvancedBioticAmps_PowerDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_AdvancedBioticAmps_PowerCooldown",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_Feron_AmmoCapacity",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_Feron_Shields",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_LegionIntel1_Shields",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_LegionIntel1_PowerDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_LegionIntel2_PowerCooldown",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_PrejekPaddlefish_WeaponDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_PrejekPaddlefish_PowerDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_SamaraMission_PowerDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_IntelligenceArchives_PowerDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_IntelligenceArchives_Health",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_IntactReaperGun_WeaponDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_IntactReaperGun_AmmoCapacity",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_DestroyedMiniReaper_PowerCooldown",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_BioticResearchData_PowerCooldown",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_BioticResearchData_PowerDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_BattleOfArcturus_WeaponDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_BattleOfArcturus_Shields",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_BattleFootage_AmmoCapacity",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_BattleFootage_WeaponDamage",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_MedicalUpgrade_Health",Value=0.05,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_Team_Green1",Value=0.02,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_Team_Grey1",Value=0.01,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_Team_Grey2",Value=0.01,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_Team_Blue1",Value=0.02f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_Team_White1",Value=0.01f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_Team_White2",Value=0.01,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_Prothean_FrtV1",Value=-0.6f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_Range_WeaponDamage",Value=0.06,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ConstraintDmgBonus",UniqueName="Intel_Range_Headshot",Value=0.16f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_MaxGrenadeBonus",UniqueName="Intel_KhansNetworkExposed_GrenadeBonus",Value=10.f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_KhansNetworkExposed_AmmoCapacity",Value=0.2f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_KhansNetworkExposed_ShieldRegen",Value=-0.2f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_KhansNetworkExposed_PowerCooldown",Value=0.2f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_LegionIntel2_ShieldRegen",Value=-0.1f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_AdvancedBioticAmps_PowerDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_AdvancedBioticAmps_PowerCooldown",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_Feron_AmmoCapacity",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_Feron_Shields",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_LegionIntel1_Shields",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_LegionIntel1_PowerDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_LegionIntel2_PowerCooldown",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_PrejekPaddlefish_WeaponDamage",Value=0.2,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_PrejekPaddlefish_PowerDamage",Value=0.2,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_SamaraMission_PowerDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_IntelligenceArchives_PowerDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_IntelligenceArchives_Health",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_IntactReaperGun_WeaponDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_IntactReaperGun_AmmoCapacity",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_DestroyedMiniReaper_PowerCooldown",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_BioticResearchData_PowerCooldown",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_BioticResearchData_PowerDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_BattleOfArcturus_WeaponDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_ShieldPercentBonus",UniqueName="Intel_BattleOfArcturus_Shields",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_BattleFootage_AmmoCapacity",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_BattleFootage_WeaponDamage",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_MedicalUpgrade_Health",Value=0.1,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_Team_Green1",Value=0.04,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_HealthPercentBonus",UniqueName="Intel_Team_Grey1",Value=0.02,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_Team_Grey2",Value=0.02,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Damage",UniqueName="Intel_Team_Blue1",Value=0.04f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_WeaponDamageBonus",UniqueName="Intel_Team_White1",Value=0.02f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_Team_White2",Value=0.02,Type=PermanentGEType_Player)</Value>
       </Property>
     </Section>
     <Section name="sfxgame.sfxplayercustomization">

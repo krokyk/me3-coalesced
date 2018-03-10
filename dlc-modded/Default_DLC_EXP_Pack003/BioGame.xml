@@ -216,10 +216,10 @@
         <Value type="3">(ArmorEffect="SFXGameContentDLC_EXP_Pack003.SFXGameEffect_UniqueArmor_Phantom_Powers",EffectDescription[0]=683395,EffectToken[0]="10",EffectDescription[1]=683401,EffectToken[1]="10",EffectDescription[2]=683399,EffectToken[2]="30",EffectDescription[3]=718121,EffectToken[3]="30")</Value>
       </Property>
       <Property name="permanentgameeffects">
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_KhansNetworkExposed_AmmoCapacity",Value=0.1f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_KhansNetworkExposed_ShieldRegen",Value=0.1f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_KhansNetworkExposed_PowerCooldown",Value=0.1f,Type=PermanentGEType_Player)</Value>
-        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_MaxGrenadeBonus",UniqueName="Intel_KhansNetworkExposed_GrenadeBonus",Value=1.f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PassiveMaxAmmoBonus",UniqueName="Intel_KhansNetworkExposed_AmmoCapacity",Value=0.2f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGame.SFXGameEffect_ShieldRegenBonus",UniqueName="Intel_KhansNetworkExposed_ShieldRegen",Value=0.2f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_PowerBonus_Cooldown",UniqueName="Intel_KhansNetworkExposed_PowerCooldown",Value=0.2f,Type=PermanentGEType_Player)</Value>
+        <Value type="3">(ClassName="SFXGameContent.SFXGameEffect_MaxGrenadeBonus",UniqueName="Intel_KhansNetworkExposed_GrenadeBonus",Value=10.f,Type=PermanentGEType_Player)</Value>
       </Property>
     </Section>
     <Section name="sfxgame.sfxplayercustomization">
