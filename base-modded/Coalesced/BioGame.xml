@@ -3993,22 +3993,22 @@
       <Property name="rank2grenadeupgrade" type="2">1</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_infiltratormeleepassive">
-      <Property name="evolve_healthshieldbonus1" type="2">0.15f</Property>
-      <Property name="evolve_healthshieldbonus2" type="2">0.25f</Property>
-      <Property name="evolve_meleedamagebonus1" type="2">0.30f</Property>
-      <Property name="evolve_meleedamagebonus2" type="2">0.30f</Property>
-      <Property name="evolve_meleespreebonus" type="2">0.75f</Property>
-      <Property name="evolve_meleespreeduration" type="2">30.0f</Property>
-      <Property name="evolve_shieldregenbonus" type="2">0.15f</Property>
-      <Property name="evolve_weaponspreebonus" type="2">0.25f</Property>
-      <Property name="evolve_weaponspreeduration" type="2">20.0f</Property>
-      <Property name="healthshieldbonus" type="2">(BaseValue=0.15f,Formula=BonusIsHardValue,RankBonuses[1]=0.10f)</Property>
-      <Property name="heavymeleedamage" type="2">(BaseValue=600)</Property>
+      <Property name="evolve_healthshieldbonus1" type="2">0.3f</Property>
+      <Property name="evolve_healthshieldbonus2" type="2">0.5f</Property>
+      <Property name="evolve_meleedamagebonus1" type="2">0.60f</Property>
+      <Property name="evolve_meleedamagebonus2" type="2">0.60f</Property>
+      <Property name="evolve_meleespreebonus" type="2">1.5f</Property>
+      <Property name="evolve_meleespreeduration" type="2">60.0f</Property>
+      <Property name="evolve_shieldregenbonus" type="2">0.30f</Property>
+      <Property name="evolve_weaponspreebonus" type="2">0.5f</Property>
+      <Property name="evolve_weaponspreeduration" type="2">40.0f</Property>
+      <Property name="healthshieldbonus" type="2">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[1]=0.20f)</Property>
+      <Property name="heavymeleedamage" type="2">(BaseValue=800)</Property>
       <Property name="heavymeleeforce" type="2">(BaseValue=0)</Property>
       <Property name="maximumimpacttargets" type="2">(BaseValue=1)</Property>
-      <Property name="meleedamage" type="2">(BaseValue=150)</Property>
-      <Property name="meleedamagebonus" type="2">(BaseValue=0.15f,Formula=BonusIsHardValue,RankBonuses[2]=0.20f)</Property>
-      <Property name="meleeforce" type="2">(BaseValue=350)</Property>
+      <Property name="meleedamage" type="2">(BaseValue=300)</Property>
+      <Property name="meleedamagebonus" type="2">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[2]=0.40f)</Property>
+      <Property name="meleeforce" type="2">(BaseValue=700)</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_infiltratorpassive">
       <Property name="evolve_headshotdamage" type="2">0.3f</Property>

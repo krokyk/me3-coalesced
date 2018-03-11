@@ -28,13 +28,13 @@
       <Property name="weightcapacity" type="0">(BaseValue=0.25f,Formula=BonusIsHardValue,RankBonuses[1]=0.25f)</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_infiltratormeleepassive">
-      <Property name="evolve_healthshieldbonus1" type="0">0.15f</Property>
-      <Property name="evolve_healthshieldbonus2" type="0">0.25f</Property>
-      <Property name="evolve_meleedamagebonus1" type="0">0.2f</Property>
-      <Property name="evolve_meleedamagebonus2" type="0">0.2f</Property>
-      <Property name="evolve_shieldregenbonus" type="0">0.2f</Property>
-      <Property name="healthshieldbonus" type="0">(BaseValue=0.2f,Formula=BonusIsHardValue,RankBonuses[1]=0.10f)</Property>
-      <Property name="meleedamagebonus" type="0">(BaseValue=0.2f,Formula=BonusIsHardValue,RankBonuses[2]=0.15f)</Property>
+      <Property name="evolve_healthshieldbonus1" type="2">0.3f</Property>
+      <Property name="evolve_healthshieldbonus2" type="2">0.5f</Property>
+      <Property name="evolve_meleedamagebonus1" type="2">0.60f</Property>
+      <Property name="evolve_meleedamagebonus2" type="2">0.60f</Property>
+      <Property name="evolve_shieldregenbonus" type="2">0.30f</Property>
+      <Property name="healthshieldbonus" type="2">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[1]=0.20f)</Property>
+      <Property name="meleedamagebonus" type="2">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[2]=0.40f)</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_infiltratorpassive">
       <Property name="evolve_weightcapacitybonus" type="0">0.7f</Property>
