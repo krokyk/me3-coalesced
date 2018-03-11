@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CoalesceAsset id="BioGame" name="biogame.ini" source="..\..\biogame\config\biogame.ini">
+  <Sections>
+    <Section name="sfxgamecontent.sfxpowercustomaction_adeptmeleepassive">
+      <Property name="evolve_healthshieldbonus1" type="0">0.1f</Property>
+      <Property name="evolve_healthshieldbonus2" type="0">0.15f</Property>
+      <Property name="evolve_meleedamagebonus1" type="0">0.1f</Property>
+      <Property name="evolve_meleedamagebonus2" type="0">0.15f</Property>
+      <Property name="evolve_shieldregenbonus" type="0">0.15f</Property>
+      <Property name="healthshieldbonus" type="0">(BaseValue=0.05f,Formula=BonusIsHardValue,RankBonuses[1]=0.1f)</Property>
+      <Property name="meleedamagebonus" type="0">(BaseValue=0.05f,Formula=BonusIsHardValue,RankBonuses[2]=0.1f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_adeptpassive">
+      <Property name="evolve_weightcapacitybonus" type="0">0.25f</Property>
+      <Property name="weightcapacity" type="0">(BaseValue=0.25f,Formula=BonusIsHardValue,RankBonuses[1]=0.25f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_engineermeleepassive">
+      <Property name="evolve_healthshieldbonus1" type="0">0.1f</Property>
+      <Property name="evolve_healthshieldbonus2" type="0">0.15f</Property>
+      <Property name="evolve_meleedamagebonus1" type="0">0.1f</Property>
+      <Property name="evolve_meleedamagebonus2" type="0">0.15f</Property>
+      <Property name="evolve_shieldregenbonus" type="0">0.25f</Property>
+      <Property name="healthshieldbonus" type="0">(BaseValue=0.05f,Formula=BonusIsHardValue,RankBonuses[1]=0.1f)</Property>
+      <Property name="meleedamagebonus" type="0">(BaseValue=0.05f,Formula=BonusIsHardValue,RankBonuses[2]=0.1f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_engineerpassive">
+      <Property name="evolve_weightcapacitybonus" type="0">0.25f</Property>
+      <Property name="weightcapacity" type="0">(BaseValue=0.25f,Formula=BonusIsHardValue,RankBonuses[1]=0.25f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_infiltratormeleepassive">
+      <Property name="evolve_healthshieldbonus1" type="0">0.15f</Property>
+      <Property name="evolve_healthshieldbonus2" type="0">0.25f</Property>
+      <Property name="evolve_meleedamagebonus1" type="0">0.2f</Property>
+      <Property name="evolve_meleedamagebonus2" type="0">0.2f</Property>
+      <Property name="evolve_shieldregenbonus" type="0">0.2f</Property>
+      <Property name="healthshieldbonus" type="0">(BaseValue=0.2f,Formula=BonusIsHardValue,RankBonuses[1]=0.10f)</Property>
+      <Property name="meleedamagebonus" type="0">(BaseValue=0.2f,Formula=BonusIsHardValue,RankBonuses[2]=0.15f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_infiltratorpassive">
+      <Property name="evolve_weightcapacitybonus" type="0">0.7f</Property>
+      <Property name="weightcapacity" type="0">(BaseValue=0.55f,Formula=BonusIsHardValue,RankBonuses[1]=0.55f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_sentinelmeleepassive">
+      <Property name="evolve_healthshieldbonus1" type="0">0.15f</Property>
+      <Property name="evolve_healthshieldbonus2" type="0">0.2f</Property>
+      <Property name="evolve_meleedamagebonus1" type="0">0.15f</Property>
+      <Property name="evolve_meleedamagebonus2" type="0">0.2f</Property>
+      <Property name="evolve_shieldregenbonus" type="0">0.25f</Property>
+      <Property name="healthshieldbonus" type="0">(BaseValue=0.1f,Formula=BonusIsHardValue,RankBonuses[1]=0.1f)</Property>
+      <Property name="meleedamagebonus" type="0">(BaseValue=0.1f,Formula=BonusIsHardValue,RankBonuses[2]=0.1f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_sentinelpassive">
+      <Property name="evolve_weightcapacitybonus" type="0">0.3f</Property>
+      <Property name="weightcapacity" type="0">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[1]=0.3f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_soldiermeleepassive">
+      <Property name="evolve_healthshieldbonus1" type="0">0.25f</Property>
+      <Property name="evolve_healthshieldbonus2" type="0">0.25f</Property>
+      <Property name="evolve_meleedamagebonus1" type="0">0.25f</Property>
+      <Property name="evolve_meleedamagebonus2" type="0">0.25f</Property>
+      <Property name="healthshieldbonus" type="0">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[1]=0.2f)</Property>
+      <Property name="meleedamagebonus" type="0">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[2]=0.2f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_soldierpassive">
+      <Property name="evolve_weightcapacitybonus" type="0">1.0f</Property>
+      <Property name="weightcapacity" type="0">(BaseValue=0.75f,Formula=BonusIsHardValue,RankBonuses[2]=0.75f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_vanguardmeleepassive">
+      <Property name="evolve_healthshieldbonus1" type="0">0.15f</Property>
+      <Property name="evolve_healthshieldbonus2" type="0">0.25f</Property>
+      <Property name="evolve_meleedamagebonus1" type="0">0.2f</Property>
+      <Property name="evolve_meleedamagebonus2" type="0">0.2f</Property>
+      <Property name="evolve_shieldregenbonus" type="0">0.2f</Property>
+      <Property name="healthshieldbonus" type="0">(BaseValue=0.2f,Formula=BonusIsHardValue,RankBonuses[1]=0.1f)</Property>
+      <Property name="meleedamagebonus" type="0">(BaseValue=0.2f,Formula=BonusIsHardValue,RankBonuses[2]=0.2f)</Property>
+    </Section>
+    <Section name="sfxgamecontent.sfxpowercustomaction_vanguardpassive">
+      <Property name="evolve_weightcapacitybonus" type="0">0.7f</Property>
+      <Property name="weightcapacity" type="0">(BaseValue=0.55f,Formula=BonusIsHardValue,RankBonuses[1]=0.55f)</Property>
+    </Section>
+  </Sections>
+</CoalesceAsset>

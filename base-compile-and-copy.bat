@@ -19,6 +19,7 @@ rem -------- BASE --------
 xcopy "%CURR_DIR%\base-modded\Coalesced\Coalesced.bin" "%ME3_BASE_COALESCE_DIR%" /Y
 
 rem -------- DLC --------
+"%COMPILER_EXE%" "%CURR_DIR%\dlc-modded\Default_DLC_CON_Fitness\Default_DLC_CON_Fitness.xml"
 "%COMPILER_EXE%" "%CURR_DIR%\dlc-modded\Default_DLC_CON_GUN01\Default_DLC_CON_GUN01.xml"
 "%COMPILER_EXE%" "%CURR_DIR%\dlc-modded\Default_DLC_CON_GUN02\Default_DLC_CON_GUN02.xml"
 "%COMPILER_EXE%" "%CURR_DIR%\dlc-modded\Default_DLC_CON_THANEMOD\Default_DLC_CON_THANEMOD.xml"
@@ -33,6 +34,7 @@ rem -------- DLC --------
 "%COMPILER_EXE%" "%CURR_DIR%\dlc-modded\Default_DLC_MOD_ME3Re\Default_DLC_MOD_ME3Re.xml"
 "%COMPILER_EXE%" "%CURR_DIR%\dlc-modded\Default_DLC_UPD_Patch02\Default_DLC_UPD_Patch02.xml"
 
+xcopy "%CURR_DIR%\dlc-modded\Default_DLC_CON_Fitness\Default_DLC_CON_Fitness.bin"           "%ME3_DLC_DIR%\DLC_CON_Fitness\CookedPCConsole" /Y
 xcopy "%CURR_DIR%\dlc-modded\Default_DLC_CON_GUN01\Default_DLC_CON_GUN01.bin"               "%ME3_DLC_DIR%\DLC_CON_GUN01\CookedPCConsole" /Y
 xcopy "%CURR_DIR%\dlc-modded\Default_DLC_CON_GUN02\Default_DLC_CON_GUN02.bin"               "%ME3_DLC_DIR%\DLC_CON_GUN02\CookedPCConsole" /Y
 xcopy "%CURR_DIR%\dlc-modded\Default_DLC_CON_THANEMOD\Default_DLC_CON_THANEMOD.bin"         "%ME3_DLC_DIR%\DLC_CON_THANEMOD\CookedPCConsole" /Y
