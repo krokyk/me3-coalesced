@@ -3622,17 +3622,17 @@
       <Property name="projectilespeed" type="2">(BaseValue=2000.0f)</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_cloak">
-      <Property name="bonusremovaldelay" type="2">1.5f</Property>
-      <Property name="cooldowntime" type="2">(BaseValue=10,Formula=DivideByBonusSum,RankBonuses[1]=0.25f)</Property>
-      <Property name="damagebonus" type="2">(BaseValue=0.5f,Formula=BonusIsHardValue)</Property>
-      <Property name="effectduration" type="2">(BaseValue=8.0f,RankBonuses[2]=0.3f)</Property>
+      <Property name="bonusremovaldelay" type="2">3.0f</Property>
+      <Property name="cooldowntime" type="2">(BaseValue=8,Formula=DivideByBonusSum,RankBonuses[1]=0.25f)</Property>
+      <Property name="damagebonus" type="2">(BaseValue=0.6f,Formula=BonusIsHardValue)</Property>
+      <Property name="effectduration" type="2">(BaseValue=10.0f,RankBonuses[2]=0.4f)</Property>
       <Property name="evolve_damagebonus" type="2">0.4f</Property>
-      <Property name="evolve_durationbonus" type="2">0.4f</Property>
-      <Property name="evolve_meleedamagebonus" type="2">0.5f</Property>
-      <Property name="evolve_rechargespeedbonus" type="2">0.3f</Property>
-      <Property name="evolve_sniperdamagebonus" type="2">0.4f</Property>
+      <Property name="evolve_durationbonus" type="2">0.5f</Property>
+      <Property name="evolve_meleedamagebonus" type="2">1.0f</Property>
+      <Property name="evolve_rechargespeedbonus" type="2">0.6f</Property>
+      <Property name="evolve_sniperdamagebonus" type="2">0.6f</Property>
       <Property name="henchmancooldowntime" type="2">(BaseValue=20,Formula=DivideByBonusSum,RankBonuses[1]=0.25f)</Property>
-      <Property name="minimumcloakcooldown" type="2">3.0f</Property>
+      <Property name="minimumcloakcooldown" type="2">1.0f</Property>
       <Property name="mintimebeforecancel" type="2">1.0f</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_combatdrone">
@@ -4011,19 +4011,19 @@
       <Property name="meleeforce" type="2">(BaseValue=350)</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_infiltratorpassive">
-      <Property name="evolve_headshotdamage" type="2">0.15f</Property>
-      <Property name="evolve_henchmenpowerdamage" type="2">0.15f</Property>
-      <Property name="evolve_henchmenweapondamage" type="2">0.1f</Property>
-      <Property name="evolve_paragonrenegadebonus" type="2">0.08f</Property>
-      <Property name="evolve_powerdamage" type="2">0.1f</Property>
-      <Property name="evolve_powerdamagedurationbonus" type="2">0.25f</Property>
-      <Property name="evolve_powerduration" type="2">0.25f</Property>
-      <Property name="evolve_sniperdamage" type="2">0.15f</Property>
-      <Property name="evolve_weapondamage" type="2">0.05f</Property>
-      <Property name="evolve_weightcapacitybonus" type="2">0.35f</Property>
-      <Property name="sniperzoomdilation" type="2">(BaseValue=0.35f,Formula=BonusIsHardValue,RankBonuses[2]=0.15f)</Property>
-      <Property name="weapondamagebonus" type="2">(BaseValue=0.025f,Formula=BonusIsHardValue,RankBonuses[2]=0.025f)</Property>
-      <Property name="weightcapacity" type="2">(BaseValue=0.15f,Formula=BonusIsHardValue,RankBonuses[1]=0.20f)</Property>
+      <Property name="evolve_headshotdamage" type="2">0.3f</Property>
+      <Property name="evolve_henchmenpowerdamage" type="2">0.3f</Property>
+      <Property name="evolve_henchmenweapondamage" type="2">0.2f</Property>
+      <Property name="evolve_paragonrenegadebonus" type="2">0.16f</Property>
+      <Property name="evolve_powerdamage" type="2">0.2f</Property>
+      <Property name="evolve_powerdamagedurationbonus" type="2">0.5f</Property>
+      <Property name="evolve_powerduration" type="2">0.5f</Property>
+      <Property name="evolve_sniperdamage" type="2">0.3f</Property>
+      <Property name="evolve_weapondamage" type="2">0.1f</Property>
+      <Property name="evolve_weightcapacitybonus" type="2">0.7f</Property>
+      <Property name="sniperzoomdilation" type="2">(BaseValue=0.5f,Formula=BonusIsHardValue,RankBonuses[2]=0.2f)</Property>
+      <Property name="weapondamagebonus" type="2">(BaseValue=0.05f,Formula=BonusIsHardValue,RankBonuses[2]=0.05f)</Property>
+      <Property name="weightcapacity" type="2">(BaseValue=0.3f,Formula=BonusIsHardValue,RankBonuses[1]=0.40f)</Property>
     </Section>
     <Section name="sfxgamecontent.sfxpowercustomaction_kailengslash">
       <Property name="damage" type="2">(BaseValue=500.0f)</Property>
